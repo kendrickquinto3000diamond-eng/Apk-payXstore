@@ -1,3 +1,4 @@
 {
-  "baseUrl": "http://panelgitulah.r-cloud.my.id:25567"
+  "baseUrl": "http://panelgitulah.r-cloud.my.id:25567",
+  "socketUrl": "http://panelgitulah.r-cloud.my.id:25567"
 }
